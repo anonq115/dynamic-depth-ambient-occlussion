@@ -5,6 +5,7 @@
 ---because if you look closely you can't really tell what's getting farther away and growing or what is closer to you and growing...000000000000000000
 -----MAYBE CUTTING THE INWARDS C INTO THREE PARTS THE FRONT MOSTLY FLAT PART AND THEN AS SOON AS IT STARTS SLOPING THOSE ARE THE OTHER PARTS. so flat(1) curve(2) curve(3) 00000
 ------IF YOU LOOK AT ANY BODY PART IT LOOKS LIKE "C" so when the rounded slopes begin start highlighting it immediately.000000000000
+-------- YOU DONT EVEN NOTICE THE "C" you just see a flat line going across the x axis it just looks flat..... 
 ----my eyes tend to revolve around and kept clicking on this artist images via pinterest without knowing it was the same artist : https://www.artstation.com/shitong
 ---highlighting the ridgeds with a dark gradient 
 ----so the depeeest most buried parts are dark and the ones peaking portruding the lightest even from a far distance the body parts portruding the most should be very obvious  as you get closer and closer the protrusion is more obvious so how do you capture this in 2d art ----how to give image depth by paintaing and adding highlihgts 
