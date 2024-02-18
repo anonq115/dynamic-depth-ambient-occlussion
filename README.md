@@ -2,6 +2,7 @@
 -one where depth is easily distinguishable, which is the deepest buried point vs the most peaking  portruding point.
 ---most importantly on a still image 0000000000000000
 ----------how do you tell the user when the edges  the farther the planes is going their  outwardly  farther way and also growing like a rounded slope mountain smoothly the farther away it is? and the portrusions that are closer and growing torwards the user in a z axis? that can only be see clearly from the top head point looking dow your own legs? this is to prevent the still image of a 3d or 2d art looking flat because even if you do sculpt the depth right it will look flat.....000000000000000000
+---because if you look closely you can't really tell what's getting farther away and growing or what is closer to you and growing...000000000000000000
 ----my eyes tend to revolve around and kept clicking on this artist images via pinterest without knowing it was the same artist : https://www.artstation.com/shitong
 ---highlighting the ridgeds with a dark gradient 
 ----so the depeeest most buried parts are dark and the ones peaking portruding the lightest even from a far distance the body parts portruding the most should be very obvious  as you get closer and closer the protrusion is more obvious so how do you capture this in 2d art ----how to give image depth by paintaing and adding highlihgts 
