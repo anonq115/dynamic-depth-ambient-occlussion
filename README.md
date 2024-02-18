@@ -5,6 +5,7 @@
 ---highlighting the ridgeds with a dark gradient 
 ----so the depeeest most buried parts are dark and the ones peaking portruding the lightest even from a far distance the body parts portruding the most should be very obvious  as you get closer and closer the protrusion is more obvious so how do you capture this in 2d art ----how to give image depth by paintaing and adding highlihgts 
 ---we most likely also have to portrude the mesh where necessary more too to capture real depth
+--------what if real people had these effects on them? 
 ![liang-tang-end1](https://github.com/anonq115/dynamic-depth-ambient-occlussion/assets/32353565/91f93f32-c207-4f73-9471-29dc63b0f628)
 ![tenten-2](https://github.com/anonq115/dynamic-depth-ambient-occlussion/assets/32353565/ea87baea-113e-4620-89fd-db08ba49a56a)
 ![sdf](https://github.com/anonq115/dynamic-depth-ambient-occlussion/assets/32353565/02a68bb4-7857-4df8-90b2-d38596688c28)
