@@ -11,6 +11,7 @@
 ----so the depeeest most buried parts are dark and the ones peaking portruding the lightest even from a far distance the body parts portruding the most should be very obvious  as you get closer and closer the protrusion is more obvious so how do you capture this in 2d art ----how to give image depth by paintaing and adding highlihgts 
 ---we most likely also have to portrude the mesh where necessary more too to capture real depth
 --------what if real people had these effects on them? 
+-------what about the depth from top to bottom view? looking from up to the subject? do we make something for that too?
 ![liang-tang-end1](https://github.com/anonq115/dynamic-depth-ambient-occlussion/assets/32353565/91f93f32-c207-4f73-9471-29dc63b0f628)
 ![tenten-2](https://github.com/anonq115/dynamic-depth-ambient-occlussion/assets/32353565/ea87baea-113e-4620-89fd-db08ba49a56a)
 ![sdf](https://github.com/anonq115/dynamic-depth-ambient-occlussion/assets/32353565/02a68bb4-7857-4df8-90b2-d38596688c28)
@@ -55,3 +56,6 @@
 ![nurzhan-bekkaliyev-6-1-p2](https://github.com/anonq115/dynamic-depth-ambient-occlussion/assets/32353565/ab5c5f26-1a20-4b6b-b858-1159cb9e36ed)
 ![dison-kong-dison-kong-2019-03-02-2](https://github.com/anonq115/dynamic-depth-ambient-occlussion/assets/32353565/c6c81e24-9f47-4a72-8828-95e85f150fd7)
 ![liang-tang-a](https://github.com/anonq115/dynamic-depth-ambient-occlussion/assets/32353565/d3067620-4637-4f45-b02b-a466603d879b)
+-----------
+------------
+
